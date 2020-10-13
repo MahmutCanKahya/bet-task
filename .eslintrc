@@ -1,0 +1,11 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "import/export": 0,
+    "react/require-extension": "off",
+    "arrow-body-style": "off",
+    "max-len": "off",
+    "global-require": "off"
+  },
+  "parser": "babel-eslint"
+}
